@@ -1,0 +1,8 @@
+streamlit
+Pillow
+python-dotenv
+groq
+sentence-transformers
+numpy
+requests
+beautifulsoup4

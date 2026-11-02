@@ -1,0 +1,2610 @@
+[
+  {
+    "id": "WHO-001",
+    "title": "WHO: Tobacco",
+    "source": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "content": "Tobacco kills more than 8 million people each year, including approximately 1.3 million non-smokers exposed to second-hand smoke."
+  },
+  {
+    "id": "NASA-001",
+    "title": "NASA: Climate Change",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/climate-change/",
+    "content": "Earth's climate is changing. Human activities, primarily greenhouse gas emissions, are the principal cause of the observed warming since the mid-20th century."
+  },
+  {
+    "id": "NASA-002",
+    "title": "NASA: Earth",
+    "source": "NASA",
+    "url": "https://science.nasa.gov/earth/",
+    "content": "Earth is the third planet from the Sun and the only known planet to support life."
+  },
+  {
+    "id": "WHO-002",
+    "title": "WHO: Vaccines and Immunization",
+    "source": "World Health Organization",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "content": "Vaccines train the immune system to recognize and fight pathogens. Vaccination prevents millions of deaths every year."
+  },
+  {
+    "id": "WHO-TOBACCO-96d7f67e9f52",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Tobacco damages nearly every organ in the body, causing cancer, heart disease, stroke, lung disease, reduced fertility, weakened immunity and premature death.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019014+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-c1c0316f2566",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Tobacco kills more than 7 million people each year, including over 1.6 million non-smokers who are exposed to second-hand smoke.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019038+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-14a19175e16d",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Nicotine is highly addictive and harmful, particularly for children, adolescents and young adults whose brains are still developing.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019041+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-3287d2dcd23a",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The tobacco epidemic is one of the biggest public health threats the world has ever faced, responsible for over 7 million deaths annually as well as disability and long-term suffering from tobacco-related diseases (1) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019045+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-8a2898c83209",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Tobacco use is a major risk factor for cardiovascular and respiratory diseases, over 20 different types or subtypes of cancer, and many other debilitating health conditions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019048+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-596815fa072c",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "All forms of tobacco use are harmful, and there is no safe level of exposure to tobacco. Cigarette smoking is the most common form of tobacco use worldwide. Other tobacco products include waterpipe tobacco, cigars, cigarillos, heated tobacco, roll-your-own tobacco, pipe tobacco, bidis and kreteks, and smokeless tobacco products.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019051+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-097587d53083",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Nicotine is highly addictive and harmful, particularly for children, adolescents and young adults whose brains are still developing. Nicotine exposure during adolescence can affect brain development, including impacts on attention and learning. Early nicotine use can increase the likelihood of long-term dependence and future use of other nicotine and tobacco products. Nicotine use also increases cardiovascular risk.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019053+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-63df508a7de9",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Around 80% of the 1.2 billion tobacco users worldwide live in low- and middle-income countries (2) , where the burden of tobacco-related illness and death is heaviest. Tobacco use contributes to poverty by diverting household spending from basic needs such as food and shelter to tobacco. This spending behaviour is difficult to curb because tobacco is very addictive.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019056+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-1aa917e0764f",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The economic costs of tobacco use are substantial and include significant health care costs for treating the diseases caused by tobacco use, as well as the lost human capital that results from tobacco-attributable morbidity and mortality (3) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019058+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-749026d5d560",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "In 2007, WHO introduced a practical, cost-effective initiative to scale up implementation of the demand reduction provisions of the WHO FCTC, called MPOWER.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019061+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-72c18a53111b",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "WHO has been monitoring MPOWER measures since 2007 and issues annual reports with details on progress made in implementing them, at global, regional and country levels.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019063+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-33ab97d482f5",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Good monitoring tracks the extent and character of the tobacco epidemic and indicates how best to tailor policies. Almost half of the world's population are regularly asked about their tobacco use in nationally representative surveys among adults and adolescents (4) . Less frequent surveys cover another 51% of adults, making a total of 97% of adults covered by surveys worldwide (2) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019066+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-fb3c0536bd9d",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "There is no safe level of exposure to second-hand tobacco smoke. Second-hand smoke causes serious cardiovascular and respiratory diseases, including coronary heart disease and lung cancer, and kills more than 1.6 million people prematurely every year (1) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019068+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-0ac8094481ef",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Over a third of the world's population living in 79 countries are protected from second hand smoke by comprehensive national smoke-free laws (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019070+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-ae5089dc0d00",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Among smokers who are aware of the dangers of tobacco, most want to quit. On average, across countries where the Global Adult Tobacco Survey has been conducted, over 60% of smokers indicated that they intend to quit (5) . Counselling and medication can more than double a tobacco user’s chance of successful quitting.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019074+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-9ad806697d5c",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "National comprehensive cessation services with full or partial cost-coverage are available to assist tobacco users to quit in only 31 countries, representing a third of the world's population (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019077+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-ef0830f40f20",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Hard-hitting anti-tobacco mass media campaigns and pictorial health warnings prevent children and other vulnerable groups from taking up tobacco use and increase the number of tobacco users who quit.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019079+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-f1b0ad94798b",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Today 62% of the world’s population live in the 110 countries that meet best practices for graphic health warnings, which includes, among other criteria, large (50% or more of the main areas of the package showing graphic health warnings) pictorial health warnings displayed in the national language and rotating regularly (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019082+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-3efd5218542b",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Over 2.9 billion people live in the 36 countries that have aired at least one strong anti-tobacco mass media campaign within the last two years (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019084+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-b9fb413065a7",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Tobacco advertising promotion and sponsorship (TAPS) increases and sustains tobacco use by effectively recruiting new tobacco users and discouraging tobacco users from quitting.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019087+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-0915250ebbf5",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "More than one third of countries (68), representing over a quarter of the world’s population, have completely banned all forms of TAPS (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019089+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-389fcf5d5d12",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Tobacco taxes are the most cost-effective way to reduce tobacco use, especially among youth and low-income groups. Implementing strong tobacco taxes is proven to lower tobacco use.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019092+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-bd116cc0fe8b",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Unfortunately, only 41 countries, covering 12% of the world's population, have introduced taxes on tobacco products to the WHO recommended amount, so that at least 75% of the retail price is tax (4) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019094+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-0d953368dd4f",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The illicit trade in tobacco products poses major health, economic and security concerns around the world. It is estimated that 1 in every 10 cigarettes and tobacco products consumed globally is illicit.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019097+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-4a2d7be10e13",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Experience from many countries demonstrates that illicit trade can be successfully addressed even when tobacco taxes and prices are raised, resulting in increased tax revenues and reduced tobacco use.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019099+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-81b7f33eb15a",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The WHO FCTC Protocol to Eliminate the Illicit Trade of Tobacco Products (ITP) is the key supply side policy to reduce tobacco use and its health and economic consequences.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019101+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-4b48fa21bf67",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Heated tobacco products (HTPs) are tobacco products that produce aerosols containing nicotine and toxic chemicals upon heating of the tobacco, or activation of a device containing the tobacco. HTPs contain tobacco and emit toxic emissions that are similar to those found in cigarettes smoke, many of which can cause cancer. HTPs are tobacco products, do not help smokers to end tobacco use and should be regulated as tobacco products.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019104+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-17f9376ad67f",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Electronic cigarettes (or e-cigarettes) heat a liquid to create aerosols that are inhaled by the user. Electronic cigarettes are harmful to health and are not safe. Strong decisive action is needed to prevent the uptake of e-cigarettes based on the growing body of evidence of use by children and adolescents and health harms.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019106+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-7c0ee93eb0d5",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "Nicotine pouches are pre-portioned pouches designed to be placed between the gum and lip. They are often promoted as “tobacco-free”, but the nicotine may have been extracted from tobacco and may contain substances originally present in tobacco. Nicotine pouches represent a rapidly expanding product category with high addiction potential and strong youth appeal.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019109+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-1e91489ad00c",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "To address the tobacco epidemic, WHO Member States adopted the WHO Framework Convention on Tobacco Control (WHO FCTC) in 2003 (6) . Currently 182 countries and the European Union are Parties to this treaty. The WHO MPOWER measures are in line with the WHO FCTC and have been shown to save lives and reduce costs from averted health-care expenditure. Over 6 billion people are covered by at least one MPOWER measure at best practice level (4).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019111+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-0947ab55aa69",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "There is a fundamental and irreconcilable conflict between the tobacco industry’s interests and public health interests. The tobacco industry produces and promotes products that have been proven scientifically to be addictive, to cause disease and death and to give rise to a variety of social ills, including increased poverty.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019114+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-ca348250f109",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The scale of the human and economic tragedy that tobacco imposes is shocking, and also preventable. WHO is working to promote public health and save lives. The industry is working for profit.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019117+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-e4ce95b7d5e5",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "The WHO FCTC is a milestone in the promotion of public health. It is an evidence-based treaty that reaffirms the right of people to the highest standard of health, provides legal dimensions for international health cooperation and sets high standards for compliance. Since its entry into force in 2005, the WHO FCTC has 183 Parties covering more than 90% of the world’s population.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019120+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-dae544295a95",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "WHO monitors adoption of MPOWER measures in Member States and publishes the WHO report on the global tobacco epidemic every two years. Detailed comparable data for all WHO Member States are available on the Global Health Observatory and country profiles are published on the MPOWER portal .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019122+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-841e80c3f03a",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(1) Global Burden of Disease 2023. [online application]. Seattle: Institute for Health Metrics and Evaluation; 2025 (https:// vizhub.healthdata.org/gbd-compare/).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019125+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-246b005249fc",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(2) WHO global report on trends in prevalence of tobacco use 2000-2024 and projections to 2030. WHO, Geneva, 2025 (https://iris.who.int/server/api/core/bitstreams/2eca3aea-b772-4272-a2ae-6fa26f3f9cd5/content)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019130+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-ff0afb9a3220",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(3) Goodchild, M., Nargis, N., Tursan d’Espaignet, E. Global economic cost of smoking-attributable diseases. BMJ Tobacco Control, 2017 (http://dx.doi.org/10.1136/tobaccocontrol-2016-053305).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019133+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-b654495d46a9",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(4) WHO report on the global tobacco epidemic, 2025: warning about the dangers of tobacco. WHO, Geneva, 2025 (https://iris.who.int/server/api/core/bitstreams/b62aa2af-5d6a-4371-a45b-9f37bde86108/content)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019135+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-e55b3def1cf2",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(5) WHO report on the global tobacco epidemic, 2019: offer help to quit tobacco use. WHO, Geneva, 2019 (https://iris.who.int/items/33981dbe-a222-428a-9c29-be5268c9d5ab)",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019137+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-TOBACCO-1ea27089ca5a",
+    "source": "World Health Organization",
+    "title": "Tobacco and nicotine",
+    "content": "(6) WHO Framework Convention on Tobacco Control, Geneva, 2003 (https://iris.who.int/server/api/core/bitstreams/264104b3-241a-4e48-88f9-aa7120779ffc/content).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:46.019140+00:00",
+    "source_id": "WHO-TOBACCO"
+  },
+  {
+    "id": "WHO-VACCINES-df081fb5a5ee",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "Immunization is a global health success story, saving millions of lives every year. Vaccines reduce risks of getting a disease by working with your body’s natural defenses to build protection. When you get a vaccine, your immune system responds.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198033+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-a5b0224eb2ee",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "We now have vaccines to prevent more than 30 life-threatening diseases and infections, helping people of all ages live longer, healthier lives. Immunization currently prevents 3.5 million to 5 million deaths every year from diseases like diphtheria, tetanus, pertussis (whooping cough), influenza and measles.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198053+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-f863d44e07a7",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "Immunization is key to primary health care, an indisputable human right, and one of the best health investments money can buy. Vaccines are also critical to the prevention and control of infectious disease outbreaks. They underpin global health security and are a vital tool in the battle against antimicrobial resistance.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198058+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-1a73a49ad0a8",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "The COVID-19 pandemic strained health systems, resulting in dramatic setbacks. The most recent data for diphtheria-pertussis-tetanus (DTP) immunization coverage underscores the need for ongoing catch-up, recovery and system-strengthening.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198062+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-5edcda5bee49",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "Measles, because of its high transmissibility, quickly exposes immunity. In 2025, the routine first dose of measles vaccine was missed by nearly 21 million children – far from the 2019 level of 19 million children.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198066+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-a507362c73c9",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "Vaccines train your immune system to create antibodies, just as it does when it’s exposed to a disease. However, because vaccines contain only killed or weakened forms of germs like viruses or bacteria, they do not cause the disease or put you at risk of its complications.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198070+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-f1a7a566f6e8",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "Not all these vaccinations may be needed in your country. Some may only be given prior to travel, in areas of risk, or to people in high-risk occupations. Talk to your health-care provider to find out what vaccinations are needed for you and your family.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198074+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-987e866d30ca",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "WHO is working with countries and partners to improve global vaccination coverage, including through these initiatives adopted by the World Health Assembly in August 2020.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198077+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-473cfb44278f",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "IA2030 sets an ambitious, overarching global vision and strategy for vaccines and immunization for the decade 2021–2030. It was co-created with thousands of contributions from countries and organizations around the world. It draws on lessons from the past decade and acknowledges continuing and new challenges posed by infectious diseases (e.g. Ebola, COVID-19).",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198082+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-VACCINES-d364cc91659b",
+    "source": "World Health Organization",
+    "title": "Vaccines and immunization",
+    "content": "The strategy has been designed to respond to the interests of every country and intends to inspire and align the activities of community, national, regional and global stakeholders towards achieving a world where everyone, everywhere fully benefits from vaccines for good health and well-being. IA2030 is operationalized through regional and national strategies and a mechanism to ensure ownership and accountability and a monitoring and evaluation framework to guide country implementation.",
+    "url": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:47.198087+00:00",
+    "source_id": "WHO-VACCINES"
+  },
+  {
+    "id": "WHO-CLIMATE-1bb5aa8fc635",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Climate change is directly contributing to humanitarian emergencies from heatwaves, wildfires, floods, tropical storms and hurricanes and they are increasing in scale, frequency and intensity.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.326988+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-f8792680cb12",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Research shows that 3.6 billion people already live in areas highly susceptible to climate change. Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year, from undernutrition, malaria, diarrhoea and heat stress alone.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327005+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-203221c818ff",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "The direct damage costs to health (excluding costs in health-determining sectors such as agriculture and water and sanitation) is estimated to be between US$ 2–4 billion per year by 2030.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327009+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-3080ae4ffe1c",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Areas with weak health infrastructure – mostly in developing countries – will be the least able to cope without assistance to prepare and respond.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327012+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-1cf115c8d63b",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Reducing emissions of greenhouse gases through better transport, food and energy use choices can result in very large gains for health, particularly through reduced air pollution.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327014+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-b8c81d4408ce",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Climate change presents a fundamental threat to human health. It affects the physical environment as well as all aspects of both natural and human systems – including social and economic conditions and the functioning of health systems. It is therefore a threat multiplier, undermining and potentially reversing decades of health progress. As climatic conditions change, more frequent and intensifying weather and climate events are observed, including storms, extreme heat, floods, droughts and wildfires. These weather and climate hazards affect health both directly and indirectly, increasing the risk of deaths, noncommunicable diseases, the emergence and spread of infectious diseases, and health emergencies.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327018+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-23fcd76c2896",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Climate change is also having an impact on our health workforce and infrastructure, reducing capacity to provide universal health coverage (UHC). More fundamentally, climate shocks and growing stresses such as changing temperature and precipitation patterns, drought, floods and rising sea levels degrade the environmental and social determinants of physical and mental health. All aspects of health are affected by climate change, from clean air, water and soil to food systems and livelihoods. Further delay in tackling climate change will increase health risks, undermine decades of improvements in global health, and contravene our collective commitments to ensure the human right to health for all.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327021+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-c0f999824045",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "The Intergovernmental Panel on Climate Change's (IPCC) Sixth Assessment Report (AR6) concluded that climate risks are appearing faster and will become more severe sooner than previously expected, and it will be harder to adapt with increased global heating.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327025+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-6bbda9c35db1",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "It further reveals that 3.6 billion people already live in areas highly susceptible to climate change. Despite contributing minimally to global emissions, low-income countries and small island developing states (SIDS) endure the harshest health impacts. In vulnerable regions, the death rate from extreme weather events in the last decade was 15 times higher than in less vulnerable ones.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327027+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-3545cb9bdd03",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Climate change is impacting health in a myriad of ways, including by leading to death and illness from increasingly frequent extreme weather events, such as heatwaves, storms and floods, the disruption of food systems, increases in zoonoses and food-, water- and vector-borne diseases, and mental health issues. Furthermore, climate change is undermining many of the social determinants for good health, such as livelihoods, equality and access to health care and social support structures. These climate-sensitive health risks are disproportionately felt by the most vulnerable and disadvantaged, including women, children, ethnic minorities, poor communities, migrants or displaced persons, older populations, and those with underlying health conditions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327031+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-abaeb6a8910b",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Figure: An overview of climate-sensitive health risks, their exposure pathways and vulnerability factors. Climate change impacts health both directly and indirectly, and is strongly mediated by environmental, social and public health determinants.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327033+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-0435f668a4d1",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Although it is unequivocal that climate change affects human health, it remains challenging to accurately estimate the scale and impact of many climate-sensitive health risks. However, scientific advances progressively allow us to attribute an increase in morbidity and mortality to global warming, and more accurately determine the risks and scale of these health threats.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327036+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-c1a4f6e0a7d8",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "WHO data indicates 2 billion people lack safe drinking water and 600 million suffer from foodborne illnesses annually, with children under 5 bearing 30% of foodborne fatalities. Climate stressors heighten waterborne and foodborne disease risks. In 2020, 770 million faced hunger, predominantly in Africa and Asia. Climate change affects food availability, quality and diversity, exacerbating food and nutrition crises.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327038+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-637dc9e9cbca",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Temperature and precipitation changes enhance the spread of vector-borne diseases. Without preventive actions, deaths from such diseases, currently over 700 000 annually, may rise. Climate change induces both immediate mental health issues, like anxiety and post-traumatic stress, and long-term disorders due to factors like displacement and disrupted social cohesion.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327040+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-3f517bb484d6",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Recent research attributes 37% of heat-related deaths to human-induced climate change. Heat-related deaths among those over 65 have risen by 70% in two decades. In 2020, 98 million more experienced food insecurity compared to the 1981–2010 average. The WHO conservatively projects 250 000 additional yearly deaths by the 2030s due to climate change impacts on diseases like malaria and coastal flooding. However, modelling challenges persist, especially around capturing risks like drought and migration pressures.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327044+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-c8db42e4cb6e",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "The climate crisis threatens to undo the last 50 years of progress in development, global health and poverty reduction, and to further widen existing health inequalities between and within populations. It severely jeopardizes the realization of UHC in various ways, including by compounding the existing burden of disease and by exacerbating existing barriers to accessing health services, often at the times when they are most needed. Over 930 million people – around 12% of the world’s population – spend at least 10% of their household budget to pay for health care. With the poorest people largely uninsured, health shocks and stresses already currently push around 100 million people into poverty every year, with the impacts of climate change worsening this trend.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327047+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-551ad1b00e56",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "In the short- to medium-term, the health impacts of climate change will be determined mainly by the vulnerability of populations, their resilience to the current rate of climate change and the extent and pace of adaptation. In the longer-term, the effects will increasingly depend on the extent to which transformational action is taken now to reduce emissions and avoid the breaching of dangerous temperature thresholds and potential irreversible tipping points.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327050+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-666c372d4e41",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "While no one is safe from these risks, the people whose health is being harmed first and worst by the climate crisis are the people who contribute least to its causes, and who are least able to protect themselves and their families against it: people in low-income and disadvantaged countries and communities.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327052+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-2c4e8206d571",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Addressing climate change's health burden underscores the equity imperative: those most responsible for emissions should bear the highest mitigation and adaptation costs, emphasizing health equity and vulnerable group prioritization.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327055+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-9962a8b53abc",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "To avert catastrophic health impacts and prevent millions of climate change-related deaths, the world must limit temperature rise to 1.5°C. Past emissions have already made a certain level of global temperature rise and other changes to the climate inevitable. Global heating of even 1.5°C is not considered safe, however; every additional tenth of a degree of warming will take a serious toll on people’s lives and health.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327058+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-1d1be452e49a",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Promote actions that both reduce carbon emissions and improve health: supporting a rapid and equitable transition to a clean energy economy; ensuring that health is central to climate change mitigation policy; accelerating mitigation actions that bring the greatest health gains; and mobilizing the strength of the health community to drive policy change and build public support.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327060+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-ebcc662b64bc",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Build better, more climate-resilient and environmentally sustainable health systems: ensuring core services, environmental sustainability and climate resilience as central components of UHC and primary health care (PHC); supporting health systems to leapfrog to cheaper, more reliable and cleaner solutions, while decarbonizing high-emitting health systems; and mainstreaming climate resilience and environmental sustainability into health service investments, including the capacity of the health workforce.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327063+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-867ed66ea663",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Protect health from the wide range of impacts of climate change : assessing health vulnerabilities and developing health plans; integrating climate risk and implementing climate-informed surveillance and response systems for key risks, such as extreme heat and infectious disease; supporting resilience and adaptation in health-determining sectors such as water and food; and closing the financing gap for health adaptation and resilience.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327065+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-fd1ce84af8c1",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Leadership and Raising Awareness : WHO leads in emphasizing climate change's health implications, aiming to centralize health in climate policies, including through the UNFCCC. Partnering with major health agencies, health professionals and civil society, WHO strives to embed climate change in health priorities like UHC and target carbon neutrality by 2030.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327068+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-e853890fc68e",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Evidence and Monitoring : WHO, with its network of global experts, contributes global evidence summaries, provides assistance to nations in their assessments, and monitors progress. The emphasis is on deploying effective policies and enhancing access to knowledge and data.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327070+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-CLIMATE-bb18ebbf3255",
+    "source": "World Health Organization",
+    "title": "Climate change",
+    "content": "Capacity Building and Country Support : Through WHO offices, support is given to ministries of health, focusing on collaboration across sectors, updated guidance, hands-on training, and support for project preparation and execution as well as for securing climate and health funding. WHO leads the Alliance for Transformative Action on Climate and Health (ATACH) , bringing together a range of health and development partners, to support countries in achieving their commitments to climate-resilient and low carbon health systems.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:48.327072+00:00",
+    "source_id": "WHO-CLIMATE"
+  },
+  {
+    "id": "WHO-MALARIA-9b3b59c59d6b",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Globally in 2024, there were an estimated 282 million malaria cases and 610 000 malaria deaths in 80 countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.471976+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-687a1a7ed9d7",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "In 2024, the WHO African Region was home to 95% of malaria cases (265 million) and 95% (579 000) of malaria deaths.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472015+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-5fa5a2f14a8c",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria is a life-threatening disease spread to humans by some types of mosquitoes. It is mostly found in tropical countries. It is preventable and curable.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472021+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-31524ad85206",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Symptoms can be mild or life-threatening. Mild symptoms are fever, chills and headache. Severe symptoms include fatigue, confusion, seizures, and difficulty breathing.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472025+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-245ce57c402a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Infants, children under 5 years, pregnant women and girls, travellers and people with HIV or AIDS are at higher risk of severe infection.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472028+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-60f5dd1e3980",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria can be prevented by avoiding mosquito bites and with medicines. Treatments can stop mild cases from getting worse.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472032+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-d6e1b12c9d72",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria mostly spreads to people through the bites of some infected female Anopheles mosquitoes. Blood transfusion and contaminated needles may also transmit malaria. The first symptoms may be mild, similar to many febrile illnesses, and difficulty to recognize as malaria. Left untreated, P. falciparum malaria can progress to severe illness and death within 24 hours.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472035+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-00253c699b1f",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "There are 5 Plasmodium parasite species that cause malaria in humans and 2 of these species – P. falciparum and P. vivax – pose the greatest threat. P. falciparum is the deadliest malaria parasite and the most prevalent on the African continent. P. vivax is the dominant malaria parasite in most countries outside of sub-Saharan Africa. The other malaria species which can infect humans are P. malariae, P. ovale and P. knowlesi .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472039+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0802dd35b32a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Symptoms may be mild for some people, especially for those who have had a malaria infection before. Because some malaria symptoms are not specific, getting tested early is important.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472042+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-f5bd2b3d9d94",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Some types of malaria can cause severe illness and death. Infants, children under 5 years, pregnant women, travellers and people with HIV or AIDS are at higher risk. Severe symptoms include:",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472045+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ad6f6b729635",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "People with severe symptoms should get emergency care right away. Getting treatment early for mild malaria can stop the infection from becoming severe.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472048+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0ad93cadb4ab",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria infection during pregnancy can also cause premature delivery or delivery of a baby with low birth weight.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472050+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0cc76e258638",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "According to the latest World malaria report, there were 282 million cases of malaria in 2024, an increase of about 9 million cases (3%) compared with 2023. The estimated number of malaria deaths stood at 610 000 in 2024 compared to 598 000 in 2023.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472054+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-1a4e0ee23506",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "The WHO African Region continues to carry a disproportionately high share of the global malaria burden. In 2024 the Region was home to about 95% of all malaria cases and deaths. Children under 5 years of age accounted for about 76% of all malaria deaths in the Region.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472057+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-4aba2911cce6",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Over half of all deaths in the Region occurred in three countries: Nigeria (31.9%), the Democratic Republic of the Congo (11.7%), and Niger (6.1%). Children under 5 years of age accounted for about 75% of all malaria deaths in the Region.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472060+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ea45f6958c8b",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria can be prevented by avoiding mosquito bites and by taking medicines. Talk to a doctor about taking medicines such as chemoprophylaxis before travelling to areas where malaria is common.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472063+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-91966bc3ba26",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Vector control is a vital component of malaria control and elimination strategies as it is highly effective in preventing infection and reducing disease transmission. The 2 core interventions are insecticide-treated nets (ITNs) and indoor residual spraying (IRS).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472065+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-91be011937ef",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Progress in global malaria control is threatened by emerging resistance to insecticides among Anopheles mosquitoes. However, new generation nets, which provide better protection against malaria than pyrethroid-only nets, are becoming more widely available and represent an important tool in global efforts to combat malaria.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472116+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-1fea55b1ab6d",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Anopheles stephensi presents an added challenge for malaria control in Africa. Originally native to parts of south Asia and the Arabian Peninsula, the invasive mosquito species has been expanding its range over the last decade, with detections reported to date in eight African countries. An. stephensi thrives in urban settings, endures high temperatures and is resistant to many of the insecticides used in public health.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472121+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-403cd3882b9a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Travellers to malaria endemic areas should consult their doctor several weeks before departure. The medical professional will determine which chemoprophylaxis drugs are appropriate for the country of destination. In some cases, chemoprophylaxis drugs must be started 2–3 weeks before departure. All prophylactic drugs should be taken on schedule for the duration of the stay in the malaria risk area and should be continued for 4 weeks after the last possible exposure to infection since parasites may still emerge from the liver during this period.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472127+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0010f915c3b8",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Preventive chemotherapy is the use of medicines, either alone or in combination, to prevent malaria infections and their consequences. It requires giving a full treatment course of an antimalarial medicine to vulnerable populations at designated time points during the period of greatest malarial risk, regardless of whether the recipients are infected with malaria.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472131+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-14875390ca3f",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Preventive chemotherapy includes perennial malaria chemoprevention (PMC), seasonal malaria chemoprevention (SMC), intermittent preventive treatment of malaria in pregnancy (IPTp) and school-aged children (IPTsc), post-discharge malaria chemoprevention (PDMC) and mass drug administration (MDA). These safe and cost-effective strategies are intended to complement ongoing malaria control activities, including vector control measures, prompt diagnosis of suspected malaria, and treatment of confirmed cases with antimalarial medicines.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472134+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-b4aa0515af9a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Since October 2021, WHO has recommended broad use of the RTS,S/AS01 malaria vaccine among children living in regions with moderate to high P. falciparum malaria transmission. The vaccine has been shown to significantly reduce malaria, and deadly severe malaria, among young children. In October 2023, WHO recommended a second safe and effective malaria vaccine, R21/Matrix-M. Vaccines are now being rolled out in routine childhood immunization programmes across Africa. Malaria vaccines in Africa are expected to save tens of thousands of young lives every year. The highest impact will be achieved, however, when the vaccines are introduced alongside a mix of other WHO-recommended malaria interventions such as bed nets and chemoprophylaxis.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472138+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-267bdf39010a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Early diagnosis and treatment of malaria reduces disease, prevents deaths and contributes to reducing transmission. WHO recommends that all suspected cases of malaria be confirmed using parasite-based diagnostic testing (through either microscopy or a rapid diagnostic test).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472141+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-c20437ea90af",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Artemisinin-based combination therapy medicines are the most effective treatment for P. falciparum malaria.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472143+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0017012a1cf3",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Chloroquine is recommended for treatment of infection with the P. vivax parasite only in places where it is still sensitive to this medicine.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472146+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-752a14768025",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Primaquine should be added to the main treatment to prevent relapses of infection with the P. vivax and P. ovale parasites.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472149+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-380bb08141dc",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Most medicines used are in pill form. Some people may need to go to a health centre or hospital for injectable medicines.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472151+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ac9f578f5251",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Subsequent to the emergence of partial artemisinin resistance in the Greater Mekong subregion, WHO is very concerned about confirmed partial artemisinin resistance in Eritrea, Rwanda, Uganda and the United Republic of Tanzania. Based on available evidence, such resistance is also suspected in Ethiopia, Namibia, Sudan and Zambia.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472153+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-775c3c2b2555",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "In 2022, WHO developed a strategy to curb antimalarial drug resistance in Africa . Regular monitoring of antimalarial drug efficacy is needed to inform treatment policies in malaria-endemic countries, and to ensure early detection of, and response to, drug resistance.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472156+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-a2be931411e8",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "For more on WHO’s work on antimalarial drug resistance in the Greater Mekong subregion, visit the Mekong Malaria Elimination Programme webpage.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472159+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-e38a73a21f14",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Most rapid diagnostic tests (RDTs) for malaria target one or two specific proteins produced by the P. falciparum malaria parasite: HRP2 and HRP3. However, parasites with genetic mutations, that prevent the expression of these proteins, are not detected by these tests. This means that malaria patients may not be diagnosed, allowing these mutated parasites to spread. In 2024, these mutated parasites were reported in 42 malaria endemic countries; with Viet Nam reporting for the first time in 2024. Although the estimated prevalence is still low in most countries, it exceeds 15% in Brazil, Djibouti, Eritrea, Ethiopia, Nicaragua and Peru.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472162+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ed1feac3f627",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria elimination is defined as the interruption of local transmission of a specified malaria parasite species in a defined geographical area as a result of deliberate activities. Continued measures to prevent re-establishment of transmission are required.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472165+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-1966a02ee41a",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Malaria surveillance is the continuous and systematic collection, analysis and interpretation of malaria-related data, and the use of that data in the planning, implementation and evaluation of public health practice. Improved surveillance of malaria cases and deaths helps ministries of health determine which areas or population groups are most affected and enables countries to monitor changing disease patterns. Strong malaria surveillance systems also help countries design effective health interventions and evaluate the impact of their malaria control programmes.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472168+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ac5c694b8e86",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "The WHO Global technical strategy for malaria 2016–2030 , updated in 2021, provides a technical framework for all malaria-endemic countries. It is intended to guide and support regional and country programmes as they work towards malaria control and elimination.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472171+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-0b457c7a4896",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "Guided by this strategy, the Global Malaria Programme coordinates the WHO’s global efforts to control and eliminate malaria by:",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472174+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-84bbf80cc6b0",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "playing a leadership role in malaria, effectively supporting member states and rallying partners to reach universal health coverage and achieve goals and targets of the Global Technical Strategy for Malaria;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472176+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-da2fa4fce68e",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "shaping the research agenda and promoting the generation of evidence to support global guidance for new tools and strategies to achieve impact;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472179+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-MALARIA-ec37506a9680",
+    "source": "World Health Organization",
+    "title": "Malaria",
+    "content": "developing ethical and evidence based global guidance on malaria with effective dissemination to support adoption and implementation by national malaria programmes and other relevant stakeholders; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:49.472181+00:00",
+    "source_id": "WHO-MALARIA"
+  },
+  {
+    "id": "WHO-TB-41cbcba1e414",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "A total of 1.23 million people died from tuberculosis (TB) in 2024 (including 150 000 among people with HIV). Globally, TB is the world’s leading cause of death from a single infectious agent and among the top 10 causes of death.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594235+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-3dd09efc4160",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB was also both the leading killer of people with HIV in 2024 and a major cause of deaths related to antimicrobial resistance.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594258+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-49ef91f1ebea",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In 2024, an estimated 10.7 million people fell ill with TB worldwide, including 5.8 million men, 3.7 million women and 1.2 million children. TB is present in all countries and age groups.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594261+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-a4a4b2154725",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Multidrug-resistant TB (MDR-TB) remains a public health crisis and a health security threat. Only about 2 in 5 people with drug-resistant TB accessed treatment in 2024.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594264+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-456aa1afd569",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB cough, sneeze or spit.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594267+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-800210a99bb2",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "About a quarter of the global population is estimated to have been infected with TB bacteria. In general, people with TB infection don’t feel sick and are not contagious. About 5–10% of people infected with TB will eventually get symptoms and develop TB disease. Babies and children are at higher risk of developing the disease if they are infected.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594272+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-f8407c321d3c",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In certain countries, the Bacille Calmette-Guérin (BCG) vaccine is given to babies or small children to prevent TB. The vaccine prevents deaths from TB and protects children from serious forms of TB.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594275+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-8d6e4e08324b",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In general, people with TB infection don’t feel sick and are not contagious. Only a small proportion of people who get infected with TB will get TB disease and develop symptoms. Babies and children are at higher risk of developing the disease if they are infected.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594278+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-412757dc5379",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB disease occurs when bacteria multiply in the body and affect different organs. TB symptoms may be mild for many months, so it is easy to spread TB to others without knowing it. Symptoms depend on which part of the body is affected. While TB usually affects the lungs, it can also affect the kidneys, brain, and spine.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594281+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-eb3a06860449",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "The symptoms people get depend on which part of the body is affected by TB. While TB usually affects the lungs, it can also involve the kidneys, brain, spine and skin.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594284+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-fd9ba27bdaab",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Seek medical attention if you have symptoms like prolonged cough, fever and unexplained weight loss as early treatment for TB can help stop the spread of disease and improve your chances of recovery.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594286+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-4ec1c20ac5c7",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Get screened for TB if you are at increased risk, such as if you have HIV or are in contact with people who have TB in your household or workplace.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594289+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-3bbe00dec2bd",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB preventive treatment (or TPT) prevents infection from becoming disease. If prescribed TPT, complete the full course.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594292+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-a9efea616982",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "If you have TB, practice good hygiene when coughing, including avoiding contact with other people and wearing a mask, covering your mouth and nose when coughing or sneezing, and disposing of sputum and used tissues properly.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594388+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-aaab3a901227",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Special measures, like respirators and well-ventilated spaces are important to reduce infection in healthcare facilities and other institutions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594401+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-099ec5d2b347",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "WHO recommends the use of rapid diagnostic tests as the initial diagnostic tests in all persons with signs and symptoms of TB.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594407+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-e848e085f1e7",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Rapid diagnostic tests recommended by WHO include biomarker-based point-of-care tests and molecular assays. All these tests are accurate and can provide initial results to guide treatment decisions within 48 hours of sample collection. Use of these tests will lead to major improvements in the early detection of TB and drug-resistant TB.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594411+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-ccc8fa942583",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Diagnosing drug-resistant forms of TB, including multidrug-resistant TB, as well as HIV-associated TB and pediatric TB can be complex. WHO recommends specific sample types, tests and strategies to detect these forms of TB to increase the chances of detecting disease early and accurately.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594415+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-678e9e99da7f",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "A tuberculin skin test (TST), interferon gamma release assay (IGRA) or newer antigen-based skin test (TBST) can be used to identify people with TB infection. The results from these TB infection tests are used to identify which individuals with a high risk of TB will benefit most from TB preventive treatment.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594418+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-aa07715b9693",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Tuberculosis disease is treated with special antibiotics. Treatment is recommended for both TB infection and disease.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594421+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-fb035e834ff6",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "To be effective, medications need to be taken daily for 4–6 months. It is dangerous to stop the medications early or without medical advice as it can prompt TB bacteria in the body to become resistant to the antibiotics.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594424+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-5619a021eed2",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB that doesn’t respond to standard drugs is called drug-resistant TB and requires treatment with different medicines.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594428+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-65f39fe2d9b1",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Drug resistance emerges when TB medicines are used inappropriately, through incorrect prescription by health care providers, poor quality drugs, or patients stopping treatment prematurely.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594431+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-e284157a922a",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "MDR-TB is a form of TB caused by bacteria that do not respond to rifampicin and isoniazid, the two most effective first-line TB drugs. MDR-TB is treatable and curable by using other drugs, which tend to be more expensive and with more side effects. People exposed to MDR-TB may receive TB preventive treatment with levofloxacin.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594434+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-d08db0fe17c4",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In some cases, extensively drug-resistant TB or XDR-TB can develop. TB caused by bacteria that do not respond to the most effective drugs in MDR-TB treatment regimens can leave patients with very limited treatment options.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594438+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-485ffa7ea73a",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "MDR-TB remains a public health crisis. Only about 2 in 5 people with multidrug-resistant TB accessed treatment in 2024.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594441+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-89e6f451edef",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In accordance with WHO guidelines, detection of MDR-TB requires bacteriological confirmation of TB and testing for drug resistance using rapid molecular tests or culture methods.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594443+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-f08f52feab51",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "In 2022, new WHO guidelines prioritized a short 6-month all-oral regimen known as BPaLM/BPaL as a treatment of choice for eligible patients. Globally in 2024, approximately 34 000 people with MDR/RR-TB were reported to have started treatment on the 6-month shorter regimens (known as BPaLM and BDLLfxC), a substantial increase from 5653 in 2023 and 1744 in 2022. The shorter duration, lower pill burden and high efficacy of this novel regimen can help ease the burden on health systems and save precious resources to further expand the diagnostic and treatment coverage for all individuals in need. WHO recommends expanded access to all-oral regimens.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594446+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-9bf8bfea6ca6",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "People living with HIV are 12 times more likely to fall ill with TB disease than people without HIV. TB is the leading cause of death among people with HIV.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594449+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-feded8d8a218",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "HIV and TB form a lethal combination, each accelerating the other's progress. In 2024, about 150 000 people died of HIV-associated TB. The percentage of people who fell ill with TB and had a documented HIV test result was 82% in 2024. This was a slight increase from 81% in 2023. The WHO African Region has the highest burden of HIV-associated TB. Globally in 2024, only 61% of the estimated number of people living with HIV who developed TB received antiretroviral therapy (ART).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594452+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-39b904290acd",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "WHO first recommended collaborative TB/HIV activities to reduce morbidity and mortality from HIV-associated TB in 2004. These activities include bidirectional screening, prevention and treatment of infection and disease. Scale-up of TB treatment and ART since 2005 is estimated to have averted 9.8 million deaths.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594454+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-21b972e749a5",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB mostly affects adults in their most productive years. However, all age groups are at risk. Over 80% of cases and deaths are in low- and middle-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594457+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-353166a2650f",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "TB occurs in every part of the world. In 2024, the largest number of new TB cases occurred in the WHO South-East Asia Region (34%), followed by the Western Pacific Region (27%) and the African Region (25%). Around 87% of new TB cases occurred in the 30 high TB burden countries, with two-thirds of the global total in India (25%), Indonesia (10%), the Philippines (6.8%), China (6.5%), Pakistan (6.3%), Nigeria (4.8%), the Democratic Republic of the Congo (3.9%) and Bangladesh (3.6%). The top five countries accounted for 55% of the global total.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594460+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-35954103358c",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "Globally, about 50% of people treated for TB and their households face total costs (direct medical expenditures, non-medical expenditures and indirect costs such as income losses) that are catastrophic (>20% of total household income). This is far from the target of the WHO End TB Strategy of zero. Those with compromised immune systems, such as people living with HIV, undernutrition or diabetes, or people who use tobacco have a higher risk of falling ill. Globally in 2024, there were an estimated 0.97 million new TB cases that were attributable to undernutrition, 0.93 million to diabetes, 0.74 million to alcohol use disorders, 0.70 million to smoking and 0.57 million to HIV infection.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594463+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-318aac9f382c",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "US$ 22 billion are needed annually for TB prevention, diagnosis, treatment and care to achieve global targets by 2027 agreed on at the 2023 UN high level-TB meeting.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594466+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-9c7abfb6a76b",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "As in the past decade, most of the spending on TB services in 2024 (82%) was from domestic sources. In absolute terms, Brazil, China, India, the Russian Federation and South Africa accounted for US$ 3.1 billion (64%) of the total of US$ 4.8 billion provided from domestic sources in low- and middle-income countries (LMICs), international donor funding amounted to US$ 1.1 billion, having ranged from US$ 1.1 billion to US$ 1.2 billion in almost every year since 2015. Financing for TB research and innovation, at US$ 1.2 billion in 2023, also continues to fall far short of the global target of US$ 5 billion per year. Progress to date has been constrained by the overall level of investment.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594469+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-TB-a089cdcf4298",
+    "source": "World Health Organization",
+    "title": "Tuberculosis",
+    "content": "WHO is working closely with countries, partners and civil society to scaler up the TB response. Six core functions are being pursued by WHO to contribute to achieving the targets of the 2023 UN High-level Meeting political declaration, Sustainable Development Goals, the WHO End TB Strategy and WHO strategic priorities.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:50.594471+00:00",
+    "source_id": "WHO-TB"
+  },
+  {
+    "id": "WHO-DIABETES-d380216562d7",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "The number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702887+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-079529c857bd",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "More than half of people living with diabetes did not take medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702910+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-009cf20ffbe3",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "In 2021, diabetes and kidney disease due to diabetes caused over 2 million deaths. In addition, around 11% of cardiovascular deaths were caused by high blood glucose.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702917+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-77b34ba55355",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702921+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-417b204cc8b5",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702925+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-ca6e7e801e7b",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "In 2022 , 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990. More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702930+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-263fead7f932",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "In 2021, diabetes was the direct cause of 1.6 million deaths and 47% of all deaths due to diabetes occurred before the age of 70 years. Another 530 000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths (1) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702936+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-ff28f71cf721",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Since 2000, mortality rates from diabetes have been increasing. By contrast, the probability of dying from any one of the four main noncommunicable diseases (cardiovascular diseases, cancer, chronic respiratory diseases or diabetes) between the ages of 30 and 70 decreased by 20% globally between 2000 and 2019.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702941+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-88e811ad162f",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Symptoms of diabetes may occur suddenly. In type 2 diabetes, the symptoms can be mild and may take many years to be noticed.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702945+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-417937f653e3",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702950+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-0483231b1aa6",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Many people with diabetes develop problems with their feet from nerve damage and poor blood flow. This can cause foot ulcers and may lead to amputation.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702955+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-29bb55bf4f4c",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin. In 2017 there were 9 million people with type 1 diabetes; the majority of them live in high-income countries. Neither its cause nor the means to prevent it are known.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702959+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-bf0c261a2136",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Type 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702964+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-2c167bda6ea7",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702968+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-5562e761a667",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702972+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-0c01e8ea153e",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Early diagnosis is important to prevent the worst effects of type 2 diabetes. The best way to detect diabetes early is to get regular check-ups and blood tests with a healthcare provider.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702975+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-cc1f11c10be1",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Symptoms of type 2 diabetes can be mild. They may take several years to be noticed. Symptoms may be similar to those of type 1 diabetes but are often less marked. As a result, the disease may be diagnosed several years after onset, after complications have already arisen.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702979+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-06a57432f803",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "More than 95% of people with diabetes have type 2 diabetes. Type 2 diabetes was formerly called non-insulin dependent, or adult onset. Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702982+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-bd536a1672d7",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702986+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-2bb4d9ee238e",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery. These women and possibly their children are also at increased risk of type 2 diabetes in the future.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702989+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-4202ae49239f",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702992+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-f17d98b0f08b",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes. People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.702996+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-d367cc478ed6",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Early diagnosis can be accomplished through relatively inexpensive testing of blood glucose. People with type 1 diabetes need insulin injections for survival.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703000+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-c900731922d7",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Some people with type 2 diabetes will need to take medicines to help manage their blood sugar levels. These can include insulin injections or other medicines. Some examples include:",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703003+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-c5fa68a61583",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "Along with medicines to lower blood sugar, people with diabetes often need medications to lower their blood pressure and statins to reduce the risk of complications.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703007+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-054fd001227f",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "WHO aims to stimulate and support the adoption of effective measures for the surveillance, prevention and control of diabetes and its complications, particularly in low- and middle-income countries. To this end, WHO:",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703011+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-58183f25faa5",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "provides scientific guidelines for the prevention of major noncommunicable diseases including diabetes;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703014+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-e18a484f8cf1",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "In April 2021 WHO launched the Global Diabetes Compact, a global initiative aiming for sustained improvements in diabetes prevention and care, with a particular focus on supporting low- and middle-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703018+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-83d96ce7dda9",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "In May 2021, the World Health Assembly agreed a Resolution on strengthening prevention and control of diabetes. In May 2022 the World Health Assembly endorsed five global diabetes coverage targets to be achieved by 2030.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703022+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-e7df8d1db8dd",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "To learn more about the Global Diabetes Compact, to access diabetes-related technical publications to get involved in upcoming initiatives, visit the Global Diabetes Compact webpage .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703026+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-DIABETES-afbe38c8fa4d",
+    "source": "World Health Organization",
+    "title": "Diabetes",
+    "content": "1. Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2021. Results. Institute for Health Metrics and Evaluation. 2024 ( https://vizhub.healthdata.org/gbd-results/ ).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:51.703029+00:00",
+    "source_id": "WHO-DIABETES"
+  },
+  {
+    "id": "WHO-OBESITY-78cfcbc8bce6",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2024, 45% of adults 18 years and over (2.6 billion) were overweight. Of these, 940 million were living with obesity (16% of all adults).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816559+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-a8499dc8126e",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2024, 400 million children and adolescents aged 5–19 years were overweight, including 170 million who were living with obesity.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816578+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-83393f3d99ed",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "It is driven by complex interactions between environmental, social, biological and behavioural determinants. The global rise of obesity is contributing to the increasing burden of type 2 diabetes, cardiovascular disease, liver and kidney disease, and several cancers (3) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816582+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-7713d23727e4",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Obesity affects people in all regions of the world and has risen alongside improvements in food security, socioeconomic development and major changes in diets, physical activity patterns, and broader social and behavioural norms. Together, these shifts have created environments that promote unhealthy weight gain and make prevention and treatment more difficult. As a result, obesity has become a major global public health challenge.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816586+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-378a52afb846",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "A diagnosis of overweight or obesity is made by measuring a person’s weight and height and by calculating their body mass index (BMI): weight (kg)/height² (m²). Other measures, such as waist circumference, can also be used to identify overweight or obesity.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816591+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-428db65834d1",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "The BMI categories for defining overweight and obesity vary by age and sex for adults, adolescents, children and infants.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816595+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-b222e83ee6e4",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "overweight is BMI-for-age greater than 1 standard deviation above the WHO Growth Reference median; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816598+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-3a38910505fd",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "overweight is weight-for-height greater than 2 standard deviations above WHO Child Growth Standards median; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816601+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-d767423188b6",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "obesity is weight-for-height greater than 3 standard deviations above the WHO Child Growth Standards median.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816604+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-93f6a3037079",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2024, 2.6 billion adults aged 18 years and older were overweight, including 940 million adults who were living with obesity (1) . This corresponds to 45% of adults aged 18 years and over (44% of men and 45% of women) who were overweight; this is an increase from 1990, when 25% of adults aged 18 years and over were overweight. Prevalence of overweight varied by region, from 32% in the WHO South-East Asia Region and the African Region to 68% in the Region of the Americas.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816608+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-7f62778f438a",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "About 16% of adults aged 18 years and older worldwide were living with obesity in 2024. The worldwide prevalence of obesity more than doubled between 1990 and 2024.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816611+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-77de6d4133cc",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2024, an estimated 35 million children under the age of 5 years were overweight (2) . Once considered a high-income country problem, overweight is on the rise in low- and middle-income countries. In Africa, the number of overweight children under 5 years has increased by nearly 12% since 2000. Almost half of the children under 5 years who were overweight in 2024 lived in Asia.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816615+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-564410333a2e",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2024, 400 million children and adolescents aged 5–19 years were overweight. The prevalence of overweight (including obesity) among children and adolescents aged 5–19 has risen dramatically from just 8% in 1990 to 20% in 2024. The rise has occurred similarly among both boys and girls: in 2024, 19% of girls and 21% of boys were overweight.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816622+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-6f56c1f2cfd6",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "While just 2% of children and adolescents aged 5–19 were living with obesity in 1990 (31 million young people), by 2024, 8% of children and adolescents were living with obesity (170 million young people).",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816626+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-44cae0b523e8",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Obesity prevalence is currently increasing faster in low- and middle-income countries and in many rural populations worldwide than in the urban populations and high-income countries it was once associated with.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816629+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-041462ceca8d",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Obesity is a chronic disease resulting from complex interactions between environmental and psychosocial influences and biological susceptibility.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816633+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-76cb19249358",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "The global health challenge of obesity is driven by increasingly obesogenic environments that limit access to healthy, affordable and sustainably produced foods; constrain opportunities for safe physical activity; and are shaped by market forces and inadequate legal and regulatory frameworks. These drivers are compounded by insufficient health system capacity to prevent, identify and manage obesity early. Addressing the challenge requires coordinated action across food systems, the built environment, regulatory and fiscal policies, and health systems to strengthen prevention, early diagnosis and multimodal chronic care including treatment, care and ongoing support.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816636+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-a46f37a38fe0",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Obesity is characterized by dysregulation of neurobiological and metabolic pathways involved in appetite, energy balance and adipose tissue function, with genetic variation influencing individual susceptibility.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816640+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-0a36841beb1d",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2023, higher-than-optimal BMI caused an estimated 3.7 million deaths by increasing the number of deaths from diseases such as cardiovascular diseases, diabetes and cancers (3) .",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816644+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-17b2a25e83c4",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Overweight and obesity in childhood and adolescence adversely affect physical, mental and social well-being and should be identified and addressed as early as possible. They are associated with stigma, discrimination, bullying, poorer quality of life and impaired school performance. Without timely intervention, obesity often persists into adulthood, increasing the risk and accelerating the onset of noncommunicable diseases (NCDs), including type 2 diabetes and cardiovascular disease. Early prevention and effective treatment can reduce these long-term health risks and improve outcomes across the life course.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816647+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-ce85479d74d3",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "While these countries continue to deal with the problems of infectious diseases and undernutrition, they are also experiencing a rapid upsurge in noncommunicable disease risk factors such as obesity and overweight.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816651+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-b9fad189f2a3",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Children in low- and middle-income countries are more vulnerable to inadequate pre-natal, infant and young child nutrition. At the same time, the children are exposed to high-fat, high-sugar, high-salt, energy-dense and micronutrient-poor foods, which tend to be lower in cost but also lower in nutrient quality. These dietary patterns, in conjunction with lower levels of physical activity, result in sharp increases in childhood obesity while undernutrition issues remain unsolved.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816654+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-179555c729af",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Overweight and obesity, as well as their related noncommunicable diseases, are largely preventable and manageable.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816657+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-b17d6f2cf480",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "At the individual level, the risk of overweight and obesity can be reduced through preventive actions taken throughout the life course, from before conception through older age. These include:",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816660+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-a796979888cf",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "practising exclusive breastfeeding for the first 6 months of life and continuing breastfeeding up to 2 years of age or beyond;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816663+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-93342bfb4338",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "supporting healthy eating, physical activity, good sleep, and limiting sedentary behaviour and screen time throughout childhood and adolescence;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816666+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-8454e8372beb",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "eating a healthy diet rich in fruits, vegetables, legumes, whole grains, and nuts, while limiting foods high in fats, sugars, and salt;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816670+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-4296e9b53ae8",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "provide evidence-based counselling on healthy diet, physical activity, sleep and other healthy behaviours to all;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816673+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-2041b89f2865",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "assess obesity-related complications, comorbidities, hypertension, diabetes, disability, mental health and other NCD risk factors;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816676+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-441a0a22e74d",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "deliver or refer people with obesity to comprehensive, person-centred multimodal chronic care, including behavioural interventions, nutritional counselling, psychological support, pharmacological treatment, and metabolic and bariatric surgery, as appropriate;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816679+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-e342eea8fa5b",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "develop individualized, long-term care plans with regular follow-up to improve cardiometabolic health, support sustained weight management, reduce obesity-related complications, and improve quality of life; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816682+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-a7d2f7c6cd67",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "monitor treatment response, service coverage, quality of care and long-term health outcomes of treatment.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816687+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-c92f9b41985d",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "structural, fiscal and regulatory measures to create healthy food environments that make healthier food options available, affordable and desirable;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816690+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-2ac4e8b98ccd",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "actions across food systems, education, urban planning, transport and social protection to address the wider determinants of health and promote healthy eating and physical activity throughout the life course; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816693+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-1a5d20ee30db",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "health system responses that strengthen primary health care to identify risk, prevent, diagnose, treat and manage obesity and NCD through integrated, person-centred multimodal chronic care programmes.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816696+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-ec058a1ee5a6",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "restricting marketing of foods high in sugars, salt and fats, especially those foods aimed at children and teenagers; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816699+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-1128cfd8ce05",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "ensuring the availability of healthy food choices and supporting regular physical activity practice in the workplace.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816702+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-ac3e57450076",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "WHO has recognized the urgent need to tackle the global health obesity challenge. WHO Member States have called for accelerated global action to address the double burden of malnutrition, including through effective prevention and management of obesity.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816706+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-d20c2c2aabfb",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "WHO has developed a series of best buys for NCD prevention and management that are feasible, evidence-based and cost effective. The economic return on investment of healthy diet-related best buys is estimated at 14 times for every unit of currency invested.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816709+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-2bd5d4c0810f",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "Almost 9 out of 10 countries have adopted policy goals towards obesity reduction. Higher-income countries more often have adopted specific healthy diet-related best buys policies, and on a mandatory basis, than lower-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816712+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-3dd60b5257cf",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In 2022, Member States endorsed the WHO Acceleration Plan to Stop Obesity . It supports countries in transforming food and urban environments, creating knowledge, motivation and skills among the general population and people living with obesity, and strengthening health systems to expand equitable access to obesity prevention and treatment services. It has expanded to 34 frontrunner countries, representing 1.3 billion people and one third of the global population living with obesity.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816716+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-449991679f1c",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "In December 2025, WHO published the guideline on the use of glucagon-like peptide-1 (GLP-1) therapies for the treatment of obesity in adults . It supports their safe, equitable and appropriate inclusion as one component of multimodal chronic obesity care, alongside behavioural, nutritional, psychological and other evidence-based interventions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816719+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-e926036df9c8",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "WHO is working alongside countries to prepare health systems to scale up comprehensive obesity chronic care programmes and support monitoring of service coverage, quality of care and health outcomes.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816722+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-c949345752d6",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "1. NCD Risk Factor Collaboration (NCD-RisC). Obesity rise plateaus in developed nations and accelerates in developing nations. Nature 653, 510–518 (2026). https://doi.org/10.1038/s41586-026-10383-0",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816726+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-4ce9f8ea5743",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "2. United Nations Children’s Fund (UNICEF), World Health Organization, International Bank for Reconstruction and Development/The World Bank. Levels and trends in child malnutrition: Key Findings of the 2025 Edition of the Joint Child Malnutrition Estimates. Geneva: World Health Organization; 2025",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816731+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-9ea75f67f149",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "3. GBD 2023 Disease and Injury and Risk Factor Collaborators. “Burden of 375 diseases and injuries, risk-attributable burden of 88 risk factors, and healthy life expectancy in 204 countries and territories, including 660 subnational locations, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023”. Lancet. 2025; 406:10513 1873.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816734+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-OBESITY-1ce4faaf5dab",
+    "source": "World Health Organization",
+    "title": "Obesity and overweight",
+    "content": "4. Okunogbe et al., “ Economic Impacts of Overweight and Obesity .” 2nd Edition with Estimates for 161 Countries. World Obesity Federation, 2022.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:52.816738+00:00",
+    "source_id": "WHO-OBESITY"
+  },
+  {
+    "id": "WHO-AIR-195a40b07cbf",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "In 2019, 99% of the world’s population was living in places where the WHO air quality guidelines levels were not met.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930252+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-bc6d97f2bc57",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "The combined effects of ambient air pollution and household air pollution are associated with 6.7 million premature deaths annually.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930268+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-f4fb1a50cf25",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Ambient (outdoor) air pollution is estimated to have caused 4.2 million premature deaths worldwide in 2019.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930271+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-9660729a8cbd",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Some 89% of those premature deaths occurred in low- and middle-income countries, and the greatest number in the WHO South-East Asia and Western Pacific Regions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930274+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-8c6072d91b5c",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Policies and investments supporting cleaner transport, energy efficient homes, power generation, industry and better municipal waste management would reduce key sources of outdoor air pollution. Access to clean household energy would also greatly reduce ambient air pollution in some regions.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930277+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-8203f859e747",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Outdoor air pollution is a major environmental health problem affecting everyone in low-, middle-, and high-income countries.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930279+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-1ce39bbfde78",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Ambient (outdoor) air pollution in both cities and rural areas was estimated to cause 4.2 million premature deaths worldwide per year in 2019; this mortality is due to exposure to fine particulate matter, which causes cardiovascular and respiratory disease, and cancers.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930282+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-f80461807ca5",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "WHO estimates that in 2019, some 68% of outdoor air pollution related premature deaths were due to ischaemic heart disease and stroke, 14% were due to chronic obstructive pulmonary disease, 14% were due to acute lower respiratory infections, and 4% of deaths were due to lung cancers.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930285+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-8260dc92fe9d",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "People living in low- and middle-income countries disproportionately experience the burden of outdoor air pollution with 89% (of the 4.2 million premature deaths) occurring in these areas. The greatest burden is found in the WHO South-East Asia and Western Pacific Regions. The latest burden estimates reflect the significant role air pollution plays in cardiovascular illness and death.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930287+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-8a38107f9556",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Addressing air pollution, which is the second highest risk factor for noncommunicable diseases , is key to protecting public health.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930290+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-3f60bebec62c",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Most sources of outdoor air pollution are well beyond the control of individuals and this demands concerted action by local, national and regional level policy-makers working in sectors like energy, transport, waste management, urban planning and agriculture.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930292+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-c19ade42c31e",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for industry: clean technologies that reduce industrial smokestack emissions; improved management of urban and agricultural waste, including capture of methane gas emitted from waste sites as an alternative to incineration (for use as biogas);",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930327+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-cd60b65bbe04",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for energy: ensuring access to affordable clean household energy solutions for cooking, heating and lighting;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930334+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-ba7b3f3a264d",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for transport: shifting to clean modes of power generation; prioritizing rapid urban transit, walking and cycling networks in cities as well as rail interurban freight and passenger travel; shifting to cleaner heavy-duty diesel vehicles and low-emissions vehicles and fuels, including fuels with reduced sulfur content;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930341+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-90f13ed812c4",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for urban planning: improving the energy efficiency of buildings and making cities more green and compact, and thus energy efficient;",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930346+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-c1ffbff2e426",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for power generation: increased use of low-emissions fuels and renewable combustion-free power sources (like solar, wind or hydropower); co-generation of heat and power; and distributed energy generation (e.g. mini-grids and rooftop solar power generation);",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930350+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-47be478dc3ac",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for municipal and agricultural waste management: strategies for waste reduction, waste separation, recycling and reuse or waste reprocessing, as well as improved methods of biological waste management such as anaerobic waste digestion to produce biogas, are feasible, low-cost alternatives to the open incineration of solid waste – where incineration is unavoidable, then combustion technologies with strict emission controls are critical; and",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930358+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-f8f70cc8be7b",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "for health-care activities: putting health services on a low-carbon development path can support more resilient and cost-efficient service delivery, along with reduced environmental health risks for patients, health workers and the community. In supporting climate friendly policies, the health sector can display public leadership while also improving health service delivery.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930364+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-6ff50272d297",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Particulate matter (PM) PM is a common proxy indicator for air pollution. There is strong evidence for the negative health impacts associated with exposure to this pollutant. The major components of PM are sulfates, nitrates, ammonia, sodium chloride, black carbon, mineral dust and water.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930368+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-2b0db92559db",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Carbon monoxide (CO) Carbon monoxide is a colourless, odourless and tasteless toxic gas produced by the incomplete combustion of carbonaceous fuels such as wood, petrol, charcoal, natural gas and kerosene.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930374+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-3c853aa4c71e",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Ozone (O 3 ) Ozone at ground level – not to be confused with the ozone layer in the upper atmosphere – is one of the major constituents of photochemical smog and it is formed through the reaction with gases in the presence of sunlight.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930380+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-7726edab5ebb",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Nitrogen dioxide (NO 2 ) NO 2 is a gas that is commonly released from the combustion of fuels in the transportation and industrial sectors.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930384+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-aa12706ec21a",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Sulfur dioxide (SO 2 ) SO 2 is a colourless gas with a sharp odour. It is produced from the burning of fossil fuels (coal and oil) and the smelting of mineral ores that contain sulfur.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930389+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-70cd1cd8f61d",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "The WHO Global air quality guidelines (AQG) offer global guidance on thresholds and limits for key air pollutants that pose health risks. These guidelines are of a high methodological quality and are developed through a transparent, evidence-based decision-making process. In addition to the guideline values, the WHO Global air quality guidelines provide interim targets to promote a gradual shift from high to lower concentrations and their associated health benefits. For example, through the achievement of interim target one (35 µg/m 3 ), around 300 000 deaths would be saved worldwide annually.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930396+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-4e8d72435a22",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "The guidelines also offer qualitative statements on good practices for the management of certain types of particulate matter (PM), for example black carbon/elemental carbon, ultrafine particles, and particles originating from sand and dust storms, for which there is insufficient quantitative evidence to derive AQG levels.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930400+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-38f78573f6e4",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "Recognizing the gravity and urgency of the problem, all WHO Member States approved resolution A68.8, “Health and the Environment: addressing the health impact of air pollution,” at the World Health Assembly in 2015, complemented by a road map for action the following year.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930403+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-a1c912723b10",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "WHO, as the coordinating authority on international health, supports countries in protecting public health through evidence-based policies and actions. Considering the significant health burden and the multiple potential benefits of interventions, WHO supports countries by providing evidence, building institutional capacity and leveraging the health argument to convene sectors to tackle air pollution.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930405+00:00",
+    "source_id": "WHO-AIR"
+  },
+  {
+    "id": "WHO-AIR-1f85e1f98cb0",
+    "source": "World Health Organization",
+    "title": "Ambient (outdoor) air pollution",
+    "content": "To support reducing air pollution levels and to protect populations from health risks, WHO’s Air Quality and Health Unit works in three cross-cutting areas: 1. knowledge, evidence and measuring progress 2. institutional capacity building and technical support 3. leadership and coordination. Member States and sub-national entities are typically responsible for the implementation and monitoring of policies to promote air quality for health. Successful policies and solid governance depend on coordinated action between a variety of stakeholders and sec- tors. Cooperation with other UN agencies and non-state actors is essential and is integrated into WHO’s work to ensure synergies and maximize impact on the ground.",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health",
+    "category": "public_health",
+    "retrieved_at": "2026-11-01T19:22:53.930409+00:00",
+    "source_id": "WHO-AIR"
+  }
+]

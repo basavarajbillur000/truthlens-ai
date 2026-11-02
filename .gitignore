@@ -1,0 +1,36 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Backups
+*.bak
+*.before_bbc
+*.backup
+app_backup.py
+app_before_*.py
+app_ui_v2_backup.py
+
+# Archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+Zone.Identifier
+
+# IDE
+.vscode/
+.idea/
+*.before_cloud
